@@ -16,3 +16,7 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+API_ROADMAP.md
+BUILD_PLAN.md
+DATABASE_DESIGN.md
